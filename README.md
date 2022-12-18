@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
-<h3 align="center">A passionate full-stack(MERN) developer</h3>
+<h3 align="center">A passionate full-stack(MERN) developer based in Busan, South Korea</h3>
 
 - 📫 How to reach me **alex.romanovich.ak@gmail.com**
 
