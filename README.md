@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👨‍💻⚡️🌱 A passionate full-stack(MERN) developer based in Busan, South Korea<br>📧📫 How to reach me: alex.romanovich.ak@gmail.com
 
 
