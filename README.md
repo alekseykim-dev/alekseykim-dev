@@ -1,5 +1,5 @@
 # 👋Hey, I'm Alex!
-A front-end developer based in Busan, South Korea🇰🇷<br>🌱 I’m currently learning the MERN stack🤓<br>💬 Ask me about JavaScript👨‍💻<br><br>
+⚛A front-end developer based in Busan, South Korea🇰🇷<br>🌱 I’m currently learning the MERN stack🤓<br>💬 Ask me about JavaScript👨‍💻<br><br>
 
 
 ## 🌏 Socials:
