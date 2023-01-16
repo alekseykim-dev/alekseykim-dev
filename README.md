@@ -21,7 +21,6 @@
 </br></br>
 	
 ### 🐍 A Snake Eating my Contributions Graph
-<img  src="https://github.com/ALEKSEY0305/ALEKSEY0305/blob/main/Images/borderseperator.gif">
 	
 ![Snake animation](https://github.com/ALEKSEY0305/ALEKSEY0305/blob/output/github-contribution-grid-snake.svg)
 
