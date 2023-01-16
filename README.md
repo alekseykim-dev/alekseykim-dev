@@ -1,7 +1,7 @@
 # 👋Hey, I'm Alex!
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Web+Developer👨‍💻;Based+in+Busan+South+Korea🇰🇷;Ask+me+about+JavaScript⚡️&color=dark&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Web+Developer👨‍💻;Based+in+Busan+South+Korea🇰🇷;Ask+me+about+JavaScript⚡️&color=cyan&center=true" />
 </div>
 
 ## 🌏 Socials:
