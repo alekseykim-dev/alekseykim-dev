@@ -1,7 +1,7 @@
 # 👋Hey, I'm Alex!
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN;Based+in+Busan+South+Korea&color=cyan&center=true" />
 </div>
 
 ## 🌏 Socials:
