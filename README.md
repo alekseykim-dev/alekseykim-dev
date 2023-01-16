@@ -16,7 +16,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ALEKSEY0305&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Alex's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JoJoDevAdventure&theme=github)](https://github.com/JoJoDevAdventure/github-readme-activity-graph)
+[![Alex's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ALEKSEY0305&theme=github)](https://github.com/ALEKSEY0305/github-readme-activity-graph)
 
 
 
