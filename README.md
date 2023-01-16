@@ -18,5 +18,6 @@
 
 [![Alex's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ALEKSEY0305&theme=github)](https://github.com/ALEKSEY0305/github-readme-activity-graph)
 
+![Snake animation](https://github.com/ALEKSEY0305/ALEKSEY0305/blob/output/github-contribution-grid-snake.svg)
 
 
