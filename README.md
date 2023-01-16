@@ -1,6 +1,9 @@
 # 👋Hey, I'm Alex!
 👨‍💻A front-end developer based in Busan, South Korea🇰🇷<br>🌱 I’m currently learning the MERN stack🤓<br>💬 Ask me about JavaScript⚡<br><br>
 
+<div align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;Web+Developer;Quick+learner&color=cyan&center=true" />
+</div>
 
 ## 🌏 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex_kimr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksey-kim-61a916195) 
