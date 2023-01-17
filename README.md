@@ -15,8 +15,6 @@
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alekseykim-dev&theme=dark&layout=compact"/>
 ----
-![Jokes Card](https://readme-jokes.vercel.app/api)
-----
 [![Alex's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alekseykim-dev&theme=github)](https://github.com/alekseykim-dev/github-readme-activity-graph)
 ----
 <br/></br>
