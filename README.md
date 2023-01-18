@@ -20,6 +20,4 @@
 <br/></br>
 ![Snake animation](https://github.com/alekseykim-dev/alekseykim-dev/blob/output/github-contribution-grid-snake.svg)
 
-----
-Counting of visitors to this page in this section started from January 19, 2023
-<a href="https://info.flagcounter.com/HKJF"><img src="https://s01.flagcounter.com/countxl/HKJF/bg_0D1117/txt_F2F2F2/border_5AA6CC/columns_7/maxflags_21/viewers_0/labels_1/pageviews_0flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
