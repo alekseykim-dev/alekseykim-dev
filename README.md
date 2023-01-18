@@ -20,3 +20,6 @@
 <br/></br>
 ![Snake animation](https://github.com/alekseykim-dev/alekseykim-dev/blob/output/github-contribution-grid-snake.svg)
 
+----
+[URL=https://info.flagcounter.com/lLir][IMG]https://s01.flagcounter.com/count2/lLir/bg_0D1117/txt_F2F2F2/border_5AA6CC/columns_5/maxflags_20/viewers_0/labels_1/pageviews_0/flags_0/percent_0/[/IMG][/URL]
+
