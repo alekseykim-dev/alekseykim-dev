@@ -22,4 +22,4 @@
 
 ----
 Counting of visitors to this page in this section started from January 19, 2023
-<a href="https://info.flagcounter.com/lLir"><img src="https://s01.flagcounter.com/count2/lLir/bg_0D1117/txt_F2F2F2/border_5AA6CC/columns_5/maxflags_20/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="https://info.flagcounter.com/lLir"><img src="https://s01.flagcounter.com/countxl/lLir/bg_0D1117/txt_F2F2F2/border_5AA6CC/columns_7/maxflags_21/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
