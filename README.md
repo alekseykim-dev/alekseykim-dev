@@ -1,7 +1,5 @@
-<h1 align="center">Hi , I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
+<h1 align="center">Hi , I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+    
 
 <div align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Web+Developer👨‍💻;Based+in+Busan,+South+Korea🇰🇷;Ask+me+about+JavaScript⚡️&color=cyan&center=true" />
