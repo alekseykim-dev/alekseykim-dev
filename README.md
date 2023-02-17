@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90)
+
 <h1 align="center">Hi , I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1> 
     
 
@@ -21,5 +23,5 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
