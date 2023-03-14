@@ -17,6 +17,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alekseykim-dev&theme=dark&hide_border=false) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alekseykim-dev&theme=dark&layout=compact"/>
 ----
 [![Alex's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alekseykim-dev&theme=github)](https://github.com/alekseykim-dev/github-readme-activity-graph)
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alekseykim-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 ----
 <br/></br>
 ![Snake animation](https://github.com/alekseykim-dev/alekseykim-dev/blob/output/github-contribution-grid-snake.svg)
