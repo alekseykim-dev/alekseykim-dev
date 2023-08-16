@@ -17,8 +17,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alekseykim-dev&theme=dark&hide_border=false) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alekseykim-dev&theme=dark&layout=compact"/>
 
 ----
-<br/></br>
-![Snake animation](https://github.com/alekseykim-dev/alekseykim-dev/blob/output/github-contribution-grid-snake.svg)
+<!-- <br/></br>
+![Snake animation](https://github.com/alekseykim-dev/alekseykim-dev/blob/output/github-contribution-grid-snake.svg)  -->
 
 
 
