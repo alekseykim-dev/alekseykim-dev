@@ -4,7 +4,7 @@
     
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Web+Developer👨‍💻;Based+in+Seoul,+South+Korea🇰🇷;Ask+me+about+JavaScript⚡️&color=cyan&center=true" />
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-ctack+Developer👨‍💻;Based+in+Seoul,+South+Korea🇰🇷;Ask+me+about+JavaScript⚡️&color=cyan&center=true" />
 </div>
 
 ## 🌏 Socials:
