@@ -17,11 +17,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alekseykim-dev&theme=react&hide_border=false) <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alekseykim-dev&theme=react&layout=compact"/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alekseykim-dev&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
-
----
-![](https://visitcount.itsvg.in/api?id=alekseykim-dev&icon=0&color=0)(https://visitcount.itsvg.in)
 ----
 <br/></br>
 ![Snake animation](https://github.com/alekseykim-dev/alekseykim-dev/blob/output/github-contribution-grid-snake.svg)
