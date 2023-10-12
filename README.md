@@ -31,8 +31,8 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alekseykim-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- <br/></br>
-![Snake animation](https://github.com/alekseykim-dev/alekseykim-dev/blob/output/github-contribution-grid-snake.svg)  -->
+ <br/></br>
+![Snake animation](https://github.com/alekseykim-dev/alekseykim-dev/blob/output/github-contribution-grid-snake.svg) 
 
 
 
