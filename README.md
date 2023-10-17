@@ -7,9 +7,9 @@
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack+web+developer👨‍💻;Based+in+Seoul,+South+Korea🇰🇷;Ask+me+about+JavaScript⚡️&color=cyan&center=true" />
 </div>
 
-<a href="https://www.youtube.com/watch?v=k-3Cppde1pU&ab_channel=Hanato">
+<!--<a href="https://www.youtube.com/watch?v=k-3Cppde1pU&ab_channel=Hanato">
   <img src="https://media.discordapp.net/attachments/1131451161837326487/1134471176270389278/IMG_9825.png" alt="a man has fallen in lego city" style="width: 100%;">
-</a>
+</a> -->
 
 ## 🌏 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex_kimr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksey-kim-61a916195) 
