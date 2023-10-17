@@ -11,8 +11,6 @@
   <img src="https://media.discordapp.net/attachments/1131451161837326487/1134471176270389278/IMG_9825.png" alt="a man has fallen in lego city" style="width: 100%;">
 </a>
 
-## 🌏 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alex_kimr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aleksey-kim-61a916195) 
 
 <!--[![@alekseykimdev's Holopin board](https://holopin.me/alekseykimdev)](https://holopin.io/@alekseykimdev) -->
 
