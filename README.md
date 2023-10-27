@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90) -->
 
-<h1 align="center">Hey , I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1> 
+<!--<h1 align="center">Hey , I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </h1> 
     
 
 <div align="center">
@@ -23,7 +23,7 @@
 
 ----
 
-<!-- ## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=alekseykim-dev&title=MultiLanguage,Commits,Repositories,Followers,PullRequest&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 ---
 -->
