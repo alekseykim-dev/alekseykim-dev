@@ -23,25 +23,24 @@
 
 --->
 
-<h3 align="center">Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </h3> 
+<h2 align="center">Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h2> 
 
 ## Interests
--  Web and mobile app development.
+-  Web and mobile app development
+-  Hiking
+-  Coffee Brewing
+-  Gym Workouts
 
 
 ## Tools
 - **Languages**: JavaScript, TypeScript, Java
-- **Web Technologies**: React, Next.js, Node.js, Express, NestJS
+- **Web Technologies**: React, Next.js, Node.js, Express, NestJS, Spring
 - **Mobile Development**: React Native
 - **Database Management**: PostgreSQL, MariaDB, MongoDB, SQLite
 - **Other Technologies**: GraphQL, Redis, OAuth, JWT, REST API, Firebase
 - **Cloud Platforms**: AWS, Google Cloud
 - **DevOps Tools**: Docker
 
-## Interests
--  Hiking
--  Coffee Brewing
--  Gym Workouts
 
 **Open to Collaborate**: Always eager to join forces on creative projects: alex.romanovich.ak@gmail.com
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alekseykim-dev&theme=react&layout=compact"/>
