@@ -41,12 +41,9 @@
 - **Cloud Platforms**: AWS, Google Cloud
 - **DevOps Tools**: Docker
 
-
-<h3>Open to Collaborate: Always eager to join forces on creative projects: alex.romanovich.ak@gmail.com </h3> 
-
-![](https://github-contributor-stats.vercel.app/api?username=alekseykim-dev&limit=5&theme=nord&combine_all_yearly_contributions=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseykim-dev&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
+#### Open to Collaborate
+- email : alex.romanovich.ak@gmail.com
+  
 <img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 [![](https://visitcount.itsvg.in/api?id=alekseykim-dev&icon=0&color=0)](https://visitcount.itsvg.in)
