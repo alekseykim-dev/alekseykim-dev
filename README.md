@@ -42,10 +42,10 @@
 - **DevOps Tools**: Docker
 
 
-**Open to Collaborate**: Always eager to join forces on creative projects: alex.romanovich.ak@gmail.com
+## Open to Collaborate**: Always eager to join forces on creative projects: alex.romanovich.ak@gmail.com
 ----
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseykim-dev&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)![](https://github-contributor-stats.vercel.app/api?username=alekseykim-dev&limit=5&theme=nord&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=alekseykim-dev&limit=5&theme=nord&combine_all_yearly_contributions=true)![](https://github-readme-stats.vercel.app/api/top-langs/?username=alekseykim-dev&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
