@@ -31,16 +31,6 @@
 -  Coffee Brewing
 -  Gym Workouts
 
-
-## Tools
-- **Languages**: JavaScript, TypeScript, Java
-- **Web Technologies**: React, Next.js, Node.js, Express, NestJS, Spring
-- **Mobile Development**: React Native
-- **Database Management**: PostgreSQL, MariaDB, MongoDB, SQLite
-- **Other Technologies**: GraphQL, Redis, OAuth, JWT, REST API, Firebase
-- **Cloud Platforms**: AWS, Google Cloud
-- **DevOps Tools**: Docker
-
 #### Open to Collaborate
 - email : alex.romanovich.ak@gmail.com
   
