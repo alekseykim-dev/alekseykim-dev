@@ -34,7 +34,6 @@
 #### Open to Collaborate
 - email : alex.romanovich.ak@gmail.com
   
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
 
 [![](https://visitcount.itsvg.in/api?id=alekseykim-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
