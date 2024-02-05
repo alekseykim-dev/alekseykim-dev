@@ -34,7 +34,7 @@
 #### Open to Collaborate
 - email : alex.romanovich.ak@gmail.com
 
---->
+
 
   <h3 align="left">Hey 👋! My name is Alex!</h3>
 
@@ -43,6 +43,7 @@
 <h5 align="left">Interests<br>-  Web and mobile app development<br>-  Hiking<br>-  Coffee Brewing<br>-  Gym Workouts</h5>
 
 ###
+--->
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
