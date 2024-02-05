@@ -21,7 +21,7 @@
 
 
 
---->
+
 
 <h2 align="center">Hi, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> </h2> 
 
@@ -34,7 +34,7 @@
 #### Open to Collaborate
 - email : alex.romanovich.ak@gmail.com
   
-
+--->
 [![](https://visitcount.itsvg.in/api?id=alekseykim-dev&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
