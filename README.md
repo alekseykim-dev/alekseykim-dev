@@ -46,7 +46,7 @@
 --->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey!%20I'm%20Alex&fontAlign=50&reversal=false">
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
+<img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
 
    <p style="margin-left:10px;">
         * 🧑‍💻 Full-stack developer at Buddyverse<br>
@@ -55,8 +55,8 @@
     </p>
 
 ###
- <h2>Languages and Tools 🧑‍💻</h2>
-<div align="left">
+ <h2>Languages and Tools 🛠️</h2>
+<div align="left" width="500px>
   <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
@@ -104,6 +104,7 @@
 
 
 ###
+ <h2> Feel free to drop me a line at: </h2>
 
 <div align="left">
   <a href="https://www.instagram.com/alex_kimr" target="_blank">
