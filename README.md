@@ -50,8 +50,8 @@
 
    <p style="margin-left:10px;">
         * 🧑‍💻 Full-stack developer at Buddyverse<br>
-        * 😍 Interested in building web and mobile apps.<br>
-        * 🌱 I enjoy networking through hiking ⛰️, learning new tools ⚙️, and brewing coffee ☕️.<br>
+        * 🛠️ Crafting web and mobile apps.<br>
+        * 🌱 Into networking through hiking ⛰️, learning new tools ⚙️, and brewing coffee ☕️.<br>
     </p>
 
 ###
