@@ -44,7 +44,8 @@
 
 ###
 --->
-<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif"  />
+<img src=https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hey!%20I'M%20Alex&fontSize=90>
+<img align="right" height="auto" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif"  />
 
 ###
 
