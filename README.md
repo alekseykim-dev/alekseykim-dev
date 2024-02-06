@@ -48,8 +48,14 @@
 
 <img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
 
-###
+   <p style="margin-left:10px;">
+        * 🧑‍💻 Full-stack developer at Buddyverse<br>
+        * 😍 Interested in developing web and mobile apps.<br>
+        * 🌱 I enjoy networking through hiking, learning new tools, and brewing coffee.<br>
+    </p>
 
+###
+ <h1>Languages and Tools 🧑‍💻</h1>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
   <img width="12" />
