@@ -45,7 +45,8 @@
 ###
 --->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey!%20I'm%20Alex&fontAlign=50&reversal=false">
-<img align="right" height="auto" src="https://user-images.githubusercontent.com/74038190/215283417-55c9fe42-d47b-4b51-94d1-cfc135280cbd.gif"  />
+
+<img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
 
 ###
 
@@ -72,9 +73,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=swift" height="32" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="32" alt="go logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo"  />
   <img width="12" />
@@ -84,13 +83,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="32" alt="supabase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="32" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sass" height="32" alt="sass logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="32" alt="babel logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="32" alt="postman logo"  />
   <img width="12" />
@@ -102,6 +95,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
 </div>
+
 
 ###
 
@@ -120,7 +114,6 @@
 
 ###
 [![](https://visitcount.itsvg.in/api?id=alekseykim-dev&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 
 
