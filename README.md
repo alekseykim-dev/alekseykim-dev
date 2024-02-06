@@ -51,60 +51,60 @@
    <p style="margin-left:10px;">
         * 🧑‍💻 Full-stack developer at Buddyverse<br>
         * 😍 Interested in building web and mobile apps.<br>
-        * 🌱 I enjoy networking through hiking, learning new tools, and brewing coffee.<br>
+        * 🌱 I enjoy networking through hiking ⛰️, learning new tools ⚙️, and brewing coffee ☕️.<br>
     </p>
 
 ###
  <h2>Languages and Tools 🛠️</h2>
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="33" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="32" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="33" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="33" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="32" alt="nextjs logo"  />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="33" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="32" alt="redux logo"  />
+  <img src="https://skillicons.dev/icons?i=redux" height="33" alt="redux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="32" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="33" alt="vuejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="32" alt="nuxtjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="33" alt="nuxtjs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="32" alt="nodejs logo"  />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="33" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="32" alt="express logo"  />
+  <img src="https://skillicons.dev/icons?i=express" height="33" alt="express logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="32" alt="nestjs logo"  />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="33" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="33" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="32" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="33" alt="spring logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="32" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="33" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="32" alt="firebase logo"  />
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="33" alt="firebase logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="32" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="33" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="32" alt="supabase logo"  />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="33" alt="supabase logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="32" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="33" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="32" alt="postman logo"  />
+  <img src="https://skillicons.dev/icons?i=postman" height="33" alt="postman logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="docker logo"  />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="33" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="32" alt="nginx logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="33" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="32" alt="amazonwebservices logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="33" alt="amazonwebservices logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="33" alt="linux logo"  />
 </div>
 
 
 ###
- <h2> Feel free to drop me a line at: </h2>
+ <h2> Feel free to drop me a line 📬 </h2>
 
 <div align="left">
      <a href="https://www.linkedin.com/in/aleksey-kim-61a916195/overlay/urn:li:fsd_profilePosition:(ACoAAC3gOPYBTBDgaR1K9sX_rIQU-11bI_fIYpU,2229428424)/skill-associations-details/" target="_blank">
