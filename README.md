@@ -55,7 +55,7 @@
     </p>
 
 ###
- <h1>Languages and Tools 🧑‍💻</h1>
+ <h2>Languages and Tools 🧑‍💻</h2>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="32" alt="javascript logo"  />
   <img width="12" />
