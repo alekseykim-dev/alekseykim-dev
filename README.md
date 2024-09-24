@@ -4,7 +4,7 @@
 <img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
 
    <p style="margin-left:10px;">
-        * 🧑‍💻 Seould-based SWE<br>
+        * 🧑‍💻 Seoul-based SWE<br>
         * 🛠️ Crafting web and mobile apps.<br>
         * 🌱 Into networking through hiking ⛰️, learning new tools ⚙️, and brewing coffee ☕️.<br>
     </p>
