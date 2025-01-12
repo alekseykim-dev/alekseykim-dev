@@ -59,6 +59,12 @@
 
 
 ###
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+
+###
  <h2> Feel free to drop me a line 📬 </h2>
 
 <div align="left"> 
