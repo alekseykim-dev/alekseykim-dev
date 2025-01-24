@@ -9,8 +9,11 @@
         * 🌱 Into networking through hiking ⛰️, learning new tools ⚙️, and brewing coffee ☕️.<br>
     </p>
 
-###
- <h2>Languages and Tools 🛠️</h2>
+
+
+ <h2> Languages and Tools </h2>
+
+ 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="33" alt="javascript logo"  />
   <img width="12" />
