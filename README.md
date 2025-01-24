@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/416bfe4c-e191-4258-bafc-24706b720a3c)
+
 <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey!%20I'm%20Alex&fontAlign=50&reversal=false">
 
 <img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif"  />
