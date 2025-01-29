@@ -3,11 +3,14 @@
 
 <img align="right" height="160" src="https://user-images.githubusercontent.com/74038190/212745723-c7c386dc-108c-4a50-9c76-0f90afb2c0fa.gif"  />
 
+<br>
    <p style="margin-left:10px;">
         * 🧑‍💻 Seoul-based SWE<br>
         * 🛠️ Crafting web and mobile apps.<br>
-        * 🌱 Into networking through hiking ⛰️, learning new tools ⚙️, and brewing coffee ☕️.<br>
+	* ⛓️ Exploring blockchain lately.<br>
+        * 🌱 Into networking through hiking ⛰️, learning new tools ⚙️, and brewing coffee ☕️.<br>   
     </p>
+
 
 
 
