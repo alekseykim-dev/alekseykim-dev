@@ -71,7 +71,7 @@
 
 <div align="left"> 
    <span style='margin-right: 3px;'>
-			<a href="https://www.linkedin.com/in/aleksey-kim-61a916195/overlay/urn:li:fsd_profilePosition:(ACoAAC3gOPYBTBDgaR1K9sX_rIQU-11bI_fIYpU,2229428424)/skill-associations-details/" target="_blank">
+			<a href="https://www.linkedin.com/in/aleksey-kim-61a916195" target="_blank">
 		 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" style='border-radius:5px;' alt="linkedin logo"/></a> 
 		</span> 
 		<span style='margin-right: 3px;'>
